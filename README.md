@@ -61,7 +61,6 @@ Hi! 👋 I'm Amrit, a **Computer Science Engineering** graduate from **NIT Jaipu
 
 ---
 
-Would you like any additional changes? 😊
 
 <!--
 **AmritAnand-2003/AmritAnand-2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
