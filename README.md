@@ -45,7 +45,7 @@ Hi! 👋 I'm Amrit, a **Computer Science Engineering** graduate from **NIT Jaipu
   A platform for seamless online shopping experiences with real-time analytics. 🛒  
   _Technologies: React, Node.js, PostgreSQL, AWS_
 
-- **[Tiny URL Service](#https://github.com/AmritAnand-2003/URL-Shortener)**  
+- **[Tiny URL Service](https://github.com/AmritAnand-2003/URL-Shortener)**  
   A highly efficient URL shortening service. 🔗  
   _Technologies: Python, SQLite_
 
