@@ -41,8 +41,8 @@ Hi! 👋 I'm Amrit, a **Computer Science Engineering** graduate from **NIT Jaipu
 ---
 
 ## 🛠️ **Featured Projects**
-- **[Scalable E-Commerce Platform](#)**  
-  A platform for seamless online shopping experiences with real-time analytics. 🛒  
+- **[Online Code Judge](https://github.com/AmritAnand-2003/CodeRecipe)**  
+  An online judge platform hosting coding problems and challenges. 🖥️
   _Technologies: React, Node.js, PostgreSQL, AWS_
 
 - **[Tiny URL Service](https://github.com/AmritAnand-2003/URL-Shortener)**  
